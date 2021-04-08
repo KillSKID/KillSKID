@@ -1,1 +1,1 @@
-![Statistics Overview](https://raw.githubusercontent.com/KillSKID/hi/master/generated/overview.svg?token=ANWTRS7VPNTKWWHI6M4QSXDANVCIM)  ![Languages Overview](https://raw.githubusercontent.com/KillSKID/hi/master/generated/languages.svg?token=ANWTRS4UDHAVPQLMJPDKPTDANVCJ2)
+![Statistics Overview](https://raw.githubusercontent.com/KillSKID/hi/master/generated/overview.svg?token=ANWTRSZMAUFSS3GGOUVOF4LAPBSIE)  ![Languages Overview](https://raw.githubusercontent.com/KillSKID/hi/master/generated/languages.svg?token=ANWTRS3XGQ2FOJOOW6G4RNDAPBSG6)
